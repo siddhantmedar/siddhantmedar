@@ -1,7 +1,5 @@
 ### Hi, I'm Siddhant
 
-Building, breaking, learning.
-
 I like building models from the ground up to understand how they really work.
 
 - **[kiteserve](https://github.com/siddhantmedar/kiteserve)**: a small LLM inference engine with a paged KV cache and continuous batching
