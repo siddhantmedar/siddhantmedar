@@ -2,7 +2,7 @@
 
 Building, breaking, learning.
 
-I work on AI systems by day and build models from the ground up for fun.
+I like building models from the ground up to understand how they really work.
 
 - **[kiteserve](https://github.com/siddhantmedar/kiteserve)**: a small LLM inference engine with a paged KV cache and continuous batching
 - **[TinyVLM-470M](https://github.com/siddhantmedar/tinyvlm-470m)**: a vision-language model trained on a single RTX 3090
